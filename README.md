@@ -1,5 +1,5 @@
 # QA Cypress Evaluation
-QA automated testing evaluation project using Cypress.io
+QA automated testing evaluation project using Cypress.io - All the test scripts are located at cypress-eval-master/cypress/integration/sahityaAssessment/
 
 ### How do I use this repo?
 
